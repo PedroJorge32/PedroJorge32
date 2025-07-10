@@ -46,6 +46,7 @@ Sou apaixonado por tecnologia e atualmente estou dando meus primeiros passos na 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+    />
 
 <br/>
 <br/>
